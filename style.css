@@ -1,0 +1,45 @@
+body{
+    
+    background-color: #ffd6a2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #a70000;
+}
+#cabecalho.nav .nav-link.active{
+    background-color: rgb(255, 255, 255);
+    color: #a70000;
+}
+#cabecalho .nav .nav-link  {
+    color: rgb(255, 255, 255);
+}
+.navbar .navbar-brand {
+    font-family: 'Pacifico', cursive;
+
+    color: #ffffff;
+}
+.navbar-toggler{
+    background-color: #ffffff;
+}
+.section-title{
+    font-family: 'Pacifico', cursive;
+}
+section #fale-conosco{
+    font-family: 'Roboto', sans-serif;
+    background-color: #a70000;
+}
+section #fale-conosco label{
+    color: #ffffff;
+}
+section small{
+    color: #ffffff;
+}
+section .cor {
+    color: #a70000;
+    background-color: #ffffff;
+}
+section .cor:hover{
+    color: rgb(255, 255, 255);
+    background-color: #a70000;
+}
